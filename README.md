@@ -473,6 +473,9 @@ Wiki 中的**所有人物、机构、事件、奖项、论文与冲突，均为�
 - **李文亚宇宙 Wiki** — 类 SCP 风格的设定归档站点，Fandom / 国内 CN 站点 / GitHub 三站同步
 - **`liwenya-universe`** — 世界观设定技能包，含角色卡、理论体系、时间线与双轨叙事引擎
 - **`liwenya-wiki-template`** — Wiki 条目模板（人物 / 机构 / 理论 / 概念 / 事件五类信息框）
+### 工作流：
+- **`videoshottosub`** — 我制作视频字幕ocr初步提取工具，也是因为处理李文亚视频字幕！
+- **`video_sub_fix`** — 视频字幕校对与修复 Skill，和 **`videoshottosub`** 配合使用！
 
 ---
 
